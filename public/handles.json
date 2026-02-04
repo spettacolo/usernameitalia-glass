@@ -3,196 +3,168 @@
     {
       "id": "1",
       "username": "ricavi",
-      "price": 110000,
+      "price": 120,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "2",
       "username": "degna",
-      "price": 90000,
+      "price": 100,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "3",
       "username": "rivolta",
-      "price": 57600,
+      "price": 150,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "4",
       "username": "focoso",
-      "price": 55000,
+      "price": 80,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "5",
       "username": "etiopia",
-      "price": 50000,
+      "price": 220,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "6",
-      "username": "+888 0044 4400",
-      "price": 49000,
+      "username": "truppa",
+      "price": 130,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "7",
-      "username": "+888 0022 2200",
-      "price": 49000,
+      "username": "angolo",
+      "price": 170,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "8",
-      "username": "truppa",
-      "price": 46000,
+      "username": "ritorno",
+      "price": 140,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "9",
-      "username": "money",
-      "price": 45000,
+      "username": "terzino",
+      "price": 100,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "10",
-      "username": "angolo",
-      "price": 45000,
+      "username": "gessica",
+      "price": 500,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "11",
-      "username": "ritorno",
-      "price": 44000,
+      "username": "alticcio",
+      "price": 120,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "12",
-      "username": "terzino",
-      "price": 40000,
+      "username": "cruento",
+      "price": 170,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "13",
-      "username": "gessica",
-      "price": 110000,
+      "username": "furgone",
+      "price": 110,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "14",
-      "username": "alticcio",
-      "price": 110000,
+      "username": "davvero",
+      "price": 70,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "15",
-      "username": "cruento",
-      "price": 110000,
+      "username": "borsello",
+      "price": 90,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "16",
-      "username": "furgone",
-      "price": 110000,
+      "username": "esplicito",
+      "price": 220,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "17",
-      "username": "arpione",
-      "price": 110000,
+      "username": "orecchini",
+      "price": 100,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "18",
-      "username": "davvero",
-      "price": 110000,
+      "username": "eclatante",
+      "price": 130,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "19",
-      "username": "borsello",
-      "price": 110000,
+      "username": "ficcanaso",
+      "price": 150,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "20",
-      "username": "esplicito",
-      "price": 110000,
+      "username": "futuristico",
+      "price": 100,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "21",
-      "username": "orecchini",
-      "price": 110000,
+      "username": "sottotitolo",
+      "price": 100,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "22",
-      "username": "eclatante",
-      "price": 110000,
+      "username": "osservatore",
+      "price": 130,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "23",
-      "username": "ficcanaso",
-      "price": 110000,
+      "username": "collaboratore",
+      "price": 300,
       "type": "TELEGRAM",
       "sold": false
     },
     {
       "id": "24",
-      "username": "futuristico",
-      "price": 110000,
-      "type": "TELEGRAM",
-      "sold": false
-    },
-    {
-      "id": "25",
-      "username": "sottotitolo",
-      "price": 110000,
-      "type": "TELEGRAM",
-      "sold": false
-    },
-    {
-      "id": "26",
-      "username": "osservatore",
-      "price": 110000,
-      "type": "TELEGRAM",
-      "sold": false
-    },
-    {
-      "id": "27",
-      "username": "collaboratore",
-      "price": 110000,
-      "type": "TELEGRAM",
-      "sold": false
-    },
-    {
-      "id": "28",
       "username": "panoramica",
-      "price": 110000,
+      "price": 150,
       "type": "TELEGRAM",
       "sold": false
     }
