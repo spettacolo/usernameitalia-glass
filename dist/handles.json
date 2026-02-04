@@ -1,0 +1,88 @@
+{
+  "handles": [
+    {
+      "id": "1",
+      "username": "millionaire",
+      "price": 110000,
+      "type": "TELEGRAM",
+      "sold": false
+    },
+    {
+      "id": "2",
+      "username": "real",
+      "price": 90000,
+      "type": "TELEGRAM",
+      "sold": false
+    },
+    {
+      "id": "3",
+      "username": "beat",
+      "price": 57600,
+      "type": "TELEGRAM",
+      "sold": false
+    },
+    {
+      "id": "4",
+      "username": "thot",
+      "price": 55000,
+      "type": "TELEGRAM",
+      "sold": false
+    },
+    {
+      "id": "5",
+      "username": "boot",
+      "price": 50000,
+      "type": "TELEGRAM",
+      "sold": false
+    },
+    {
+      "id": "6",
+      "username": "+888 0044 4400",
+      "price": 49000,
+      "type": "TELEGRAM",
+      "sold": false
+    },
+    {
+      "id": "7",
+      "username": "+888 0022 2200",
+      "price": 49000,
+      "type": "TELEGRAM",
+      "sold": false
+    },
+    {
+      "id": "8",
+      "username": "cure",
+      "price": 46000,
+      "type": "TELEGRAM",
+      "sold": false
+    },
+    {
+      "id": "9",
+      "username": "money",
+      "price": 45000,
+      "type": "TELEGRAM",
+      "sold": false
+    },
+    {
+      "id": "10",
+      "username": "power",
+      "price": 45000,
+      "type": "TELEGRAM",
+      "sold": false
+    },
+    {
+      "id": "11",
+      "username": "rich",
+      "price": 44000,
+      "type": "TELEGRAM",
+      "sold": false
+    },
+    {
+      "id": "12",
+      "username": "luxury",
+      "price": 40000,
+      "type": "TELEGRAM",
+      "sold": false
+    }
+  ]
+}
