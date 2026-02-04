@@ -116,11 +116,29 @@ function App() {
           <div className="max-w-7xl mx-auto">
             <div className="glass-card rounded-2xl p-6 text-center">
               <p className="text-violet-300 text-sm">
-                To add new handles, edit the{' '}
-                <code className="bg-violet-500/20 px-2 py-0.5 rounded text-violet-200">
-                  handles.json
-                </code>{' '}
-                file in the public folder
+                <span className="text-center">Get a 100% fee discount on</span>
+                <a 
+                  href="https://t.me/usernameitalia" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="mx-1"
+                >
+                  <code className="bg-violet-500/20 px-2 py-1 rounded text-violet-200 border border-violet-500/30 whitespace-nowrap">
+                    @UsernameItalia 
+                  </code>
+                </a>
+                <span className="text-center">handles by using</span>
+                <a 
+                  href="https://t.me/agenti" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="mx-1"
+                >
+                  <code className="bg-violet-500/20 px-2 py-1 rounded text-violet-200 border border-violet-500/30 whitespace-nowrap">
+                    @Agenti 
+                  </code>
+                </a>
+                <span className="text-center">service.</span>
               </p>
             </div>
           </div>
