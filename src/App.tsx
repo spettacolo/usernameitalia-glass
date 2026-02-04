@@ -115,7 +115,7 @@ function App() {
         <footer className="mt-16 px-4 sm:px-6 lg:px-8">
           <div className="max-w-7xl mx-auto">
             <div className="glass-card rounded-2xl p-6 text-center">
-              <p className="text-violet-300 text-sm">
+              <p className="text-violet-300 text-sm leading-relaxed flex flex-wrap justify-center items-center gap-y-3">
                 <span className="text-center">Get a 100% fee discount on</span>
                 <a 
                   href="https://t.me/usernameitalia" 
