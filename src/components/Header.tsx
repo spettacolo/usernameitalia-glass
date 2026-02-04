@@ -69,13 +69,13 @@ export function Header({
                     value="price-desc"
                     className="text-white focus:bg-violet-500/20 focus:text-white"
                   >
-                    Price: High to Low
+                    Price: H to L
                   </SelectItem>
                   <SelectItem
                     value="price-asc"
                     className="text-white focus:bg-violet-500/20 focus:text-white"
                   >
-                    Price: Low to High
+                    Price: L to H
                   </SelectItem>
                   <SelectItem
                     value="name-asc"
