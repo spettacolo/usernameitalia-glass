@@ -60,7 +60,7 @@ export function GlassCard({ handle, index }: GlassCardProps) {
       <button
         className="w-full glass-input rounded-xl py-3 px-4 flex items-center justify-between group transition-all duration-300 hover:bg-violet-500/20 hover:border-violet-400/50"
         onClick={() => {
-          const telegramUrl = `https://t.me/${handle.username.replace('@', '')}`;
+          const telegramUrl = `https://t.me/usernameitaliabot?start=${handle.username.replace('@', '')}`;
           window.open(telegramUrl, '_blank');
         }}
       >
